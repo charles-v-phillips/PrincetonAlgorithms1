@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9ed53b9-e0d9-41b3-a31f-034fd209a3f3" name="Default" comment="" />
+    <list default="true" id="c9ed53b9-e0d9-41b3-a31f-034fd209a3f3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/Deque.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/DequeTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/Permutation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/RandomizedQueue.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PrincetonAlgorithms1/Percolation.class" afterPath="$PROJECT_DIR$/out/production/PrincetonAlgorithms1/Percolation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PrincetonAlgorithms1.iml" afterPath="$PROJECT_DIR$/PrincetonAlgorithms1.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hw1_percolation/src/Percolation.java" afterPath="$PROJECT_DIR$/hw1_percolation/src/Percolation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hw1_percolation/src/PercolationVisualizer.java" afterPath="$PROJECT_DIR$/hw1_percolation/src/PercolationVisualizer.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,45 +22,94 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Percolation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw1_percolation/src/Percolation.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DequeTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/DequeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1455">
+            <state relative-caret-position="930">
+              <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#480#481#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+                <element signature="e#597#598#0" expanded="true" />
+                <element signature="e#1885#1886#0" expanded="true" />
+                <element signature="e#1910#1911#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Deque.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/Deque.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1395">
               <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
               <folding>
-                <element signature="e#2646#2647#0" expanded="true" />
-                <element signature="e#2693#2694#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="class#Node#0;class#Deque#0" expanded="false" />
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#878#879#0" expanded="true" />
+                <element signature="e#902#903#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PercolationStats.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw1_percolation/src/PercolationStats.java">
+      <file leaf-file-name="RandomizedQueue.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/RandomizedQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+            <state relative-caret-position="455">
+              <caret line="73" column="38" lean-forward="false" selection-start-line="73" selection-start-column="38" selection-end-line="73" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1066#1067#0" expanded="true" />
-                <element signature="e#1142#1143#0" expanded="true" />
-                <element signature="e#1176#1177#0" expanded="true" />
-                <element signature="e#1252#1253#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PercolationVisualizer.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hw1_percolation/src/PercolationVisualizer.java">
+      <file leaf-file-name="StdRandom.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/StdRandom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+            <state relative-caret-position="1995">
+              <caret line="184" column="22" lean-forward="false" selection-start-line="184" selection-start-column="22" selection-end-line="184" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RandomizedQueueTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/RandomizedQueueTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Permutation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/Permutation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StdIn.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/StdIn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4800">
+              <caret line="336" column="35" lean-forward="false" selection-start-line="336" selection-start-column="25" selection-end-line="336" selection-end-column="35" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -59,9 +119,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>readString</find>
+      <find>the de</find>
+      <find>*2</find>
+      <find>Node</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -71,18 +143,25 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hw1_percolation/src/Percolation.java" />
         <option value="$PROJECT_DIR$/hw1_percolation/src/PercolationStats.java" />
         <option value="$PROJECT_DIR$/hw1_percolation/src/PercolationVisualizer.java" />
+        <option value="$PROJECT_DIR$/hw1_percolation/src/SocialNetworkConnectivity.java" />
+        <option value="$PROJECT_DIR$/hw1_percolation/src/Percolation.java" />
+        <option value="$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/DequeTest.groovy" />
+        <option value="$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/RandomizedQueueTest.java" />
+        <option value="$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/DequeTest.java" />
+        <option value="$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/Permutation.java" />
+        <option value="$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/Deque2.java" />
+        <option value="$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/RandomizedQueue.java" />
+        <option value="$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/Deque.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="11" />
-    <option name="y" value="31" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1280" />
-    <option name="height" value="777" />
+    <option name="height" value="800" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -98,10 +177,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,27 +189,40 @@
             <path>
               <item name="algorithms_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="PrincetonAlgorithms1" type="462c0819:PsiDirectoryNode" />
-              <item name="hw1_percolation" type="462c0819:PsiDirectoryNode" />
+              <item name="hw2_dequesAndRandomizedQues" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithms_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="PrincetonAlgorithms1" type="462c0819:PsiDirectoryNode" />
-              <item name="hw1_percolation" type="462c0819:PsiDirectoryNode" />
+              <item name="hw2_dequesAndRandomizedQues" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/hw1_percolation" />
       <recent name="$PROJECT_DIR$" />
@@ -151,10 +241,72 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PercolationVisualizer">
-    <configuration name="PercolationVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Deque">
+    <configuration name="Deque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="PercolationVisualizer" />
+      <option name="MAIN_CLASS_NAME" value="Deque" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="PrincetonAlgorithms1" />
+      <envs />
+    </configuration>
+    <configuration name="Deque2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Deque2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="PrincetonAlgorithms1" />
+      <envs />
+    </configuration>
+    <configuration name="DequeTest.randomCalls" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="PrincetonAlgorithms1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DequeTest" />
+      <option name="METHOD_NAME" value="randomCalls" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Permutation" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="PrincetonAlgorithms1" />
+      <envs />
+    </configuration>
+    <configuration name="RandomizedQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="RandomizedQueue" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -247,9 +399,20 @@
       <properties />
       <listeners />
     </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.RandomizedQueue" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Deque" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.DequeTest.randomCalls" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Deque2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Permutation" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.PercolationVisualizer" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Deque" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Deque2" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Permutation" />
+        <item index="3" class="java.lang.String" itemvalue="Application.RandomizedQueue" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.DequeTest.randomCalls" />
       </list>
     </recent_temporary>
   </component>
@@ -266,52 +429,232 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="DequeTest - 2018.04.25 at 20h 00m 50s.xml">
+      <configuration name="DequeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DequeTest_randomCalls - 2018.04.27 at 09h 08m 17s.xml">
+      <configuration name="DequeTest.randomCalls" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DequeTest_randomCalls - 2018.04.27 at 09h 09m 36s.xml">
+      <configuration name="DequeTest.randomCalls" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DequeTest_randomCalls - 2018.04.27 at 09h 16m 51s.xml">
+      <configuration name="DequeTest.randomCalls" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DequeTest_randomCalls - 2018.04.27 at 09h 17m 37s.xml">
+      <configuration name="DequeTest.randomCalls" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomizedQueueTest - 2018.04.26 at 09h 49m 54s.xml">
+      <configuration name="RandomizedQueueTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomizedQueueTest - 2018.04.26 at 09h 57m 58s.xml">
+      <configuration name="RandomizedQueueTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomizedQueueTest - 2018.04.26 at 09h 59m 34s.xml">
+      <configuration name="RandomizedQueueTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomizedQueueTest - 2018.04.26 at 10h 06m 04s.xml">
+      <configuration name="RandomizedQueueTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomizedQueueTest - 2018.04.26 at 12h 05m 33s.xml">
+      <configuration name="RandomizedQueueTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19224556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19944979" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6409904" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19224556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/RandomizedQueueTest.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/DequeTest.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/RandomizedQueue.java</url>
+          <line>120</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/Deque.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="37" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/DequeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#1885#1886#0" expanded="true" />
+            <element signature="e#1910#1911#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/RandomizedQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="73" column="38" lean-forward="true" selection-start-line="73" selection-start-column="38" selection-end-line="73" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/StdRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2760">
+          <caret line="184" column="22" lean-forward="false" selection-start-line="184" selection-start-column="22" selection-end-line="184" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/RandomizedQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/Permutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/StdIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5040">
+          <caret line="336" column="35" lean-forward="false" selection-start-line="336" selection-start-column="25" selection-end-line="336" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/WeightedQuickUnionUF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="194" column="41" lean-forward="false" selection-start-line="194" selection-start-column="41" selection-end-line="194" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hw1_percolation/src/Percolation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1455">
-          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+        <state relative-caret-position="1080">
+          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrincetonAlgorithms1.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw1_percolation/src/SocialNetworkConnectivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="81" lean-forward="false" selection-start-line="6" selection-start-column="81" selection-end-line="6" selection-end-column="81" />
           <folding>
-            <element signature="e#2646#2647#0" expanded="true" />
-            <element signature="e#2693#2694#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -320,22 +663,262 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw1_percolation/src/PercolationVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1066#1067#0" expanded="true" />
-            <element signature="e#1142#1143#0" expanded="true" />
-            <element signature="e#1176#1177#0" expanded="true" />
-            <element signature="e#1252#1253#0" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/StdDraw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6105">
+          <caret line="475" column="19" lean-forward="false" selection-start-line="475" selection-start-column="19" selection-end-line="475" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw1_percolation/src/Percolation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw1_percolation/src/PercolationStats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw1_percolation/src/SocialNetworkConnectivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="81" lean-forward="false" selection-start-line="6" selection-start-column="81" selection-end-line="6" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hw1_percolation/src/PercolationVisualizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+        <state relative-caret-position="165">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/StdDraw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7125">
+          <caret line="475" column="19" lean-forward="false" selection-start-line="475" selection-start-column="19" selection-end-line="475" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/WeightedQuickUnionUF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3105">
+          <caret line="207" column="37" lean-forward="false" selection-start-line="207" selection-start-column="37" selection-end-line="207" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/StdDraw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6105">
+          <caret line="475" column="19" lean-forward="false" selection-start-line="475" selection-start-column="19" selection-end-line="475" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw1_percolation/src/PercolationVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw1_percolation/src/PercolationStats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw1_percolation/src/SocialNetworkConnectivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="81" lean-forward="false" selection-start-line="6" selection-start-column="81" selection-end-line="6" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/WeightedQuickUnionUF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="194" column="41" lean-forward="false" selection-start-line="194" selection-start-column="41" selection-end-line="194" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/DequeTest.groovy" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit.jar!/junit/framework/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="140" column="23" lean-forward="false" selection-start-line="140" selection-start-column="23" selection-end-line="140" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrincetonAlgorithms1.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw1_percolation/src/Percolation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-53">
+          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/StdIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4800">
+          <caret line="336" column="35" lean-forward="false" selection-start-line="336" selection-start-column="25" selection-end-line="336" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/StdRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="184" column="22" lean-forward="false" selection-start-line="184" selection-start-column="22" selection-end-line="184" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/RandomizedQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/Permutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1317">
+          <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#Node#0;class#Deque#0" expanded="false" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#902#903#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/DequeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#1885#1886#0" expanded="true" />
+            <element signature="e#1910#1911#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#Node#0;class#Deque#0" expanded="false" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#902#903#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2_dequesAndRandomizedQues/src/RandomizedQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="73" column="38" lean-forward="false" selection-start-line="73" selection-start-column="38" selection-end-line="73" selection-end-column="38" />
+          <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -398,7 +981,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

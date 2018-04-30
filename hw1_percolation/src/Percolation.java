@@ -28,7 +28,7 @@ public class Percolation {
         open[top_site] = true;
         open[bottom_site] = true;
 
-        for(int i = 1; i < n*n+1; i++) open[i] = false;
+        //for(int i = 1; i < n*n+1; i++) open[i] = false;
 
 
 
@@ -41,16 +41,16 @@ public class Percolation {
             if (isValidIndex(row, col)) {
                 open[xyTo1D(row, col)] = true;
             }
-            if (isValidIndex(row - 1, col) && open[xyTo1D(row - 1, col)] == true) {
+            if (isValidIndex(row - 1, col) && isOpen(row - 1, col)) {
                 wquf.union(xyTo1D(row, col), xyTo1D(row - 1, col));
             }
-            if (isValidIndex(row + 1, col) && open[xyTo1D(row + 1, col)] == true) {
+            if (isValidIndex(row + 1, col) && isOpen(row + 1, col)) {
                 wquf.union(xyTo1D(row, col), xyTo1D(row + 1, col));
             }
-            if (isValidIndex(row, col - 1) && open[xyTo1D(row, col - 1)] == true) {
+            if (isValidIndex(row, col - 1) && isOpen( row, col - 1)) {
                 wquf.union(xyTo1D(row, col), xyTo1D(row, col - 1));
             }
-            if (isValidIndex(row, col + 1) && open[xyTo1D(row, col + 1)] == true) {
+            if (isValidIndex(row, col + 1) && isOpen(row, col + 1)) {
                 wquf.union(xyTo1D(row, col), xyTo1D(row, col + 1));
             }
             numberOfOpenSites++;
@@ -88,6 +88,8 @@ public class Percolation {
 
 
     public static void main(String[] args) {
+        boolean[] b = new boolean[3];
+        for(int i = 0; i< b.length; i++){System.out.println(b[i]);}
 
 
 
