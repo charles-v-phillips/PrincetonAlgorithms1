@@ -35,7 +35,7 @@ public class FastCollinearPoints {
             Point origin = arr[i];
             Arrays.sort(arr,i,points.length,origin.slopeOrder());
 
-            for(int j = i; j < points.length-3; j++){
+            for(int j = i; j < points.length; j++){
                 if(areCollinear(origin, arr[j+1],arr[j+2],arr[j+3])){
                         Point[] d = {origin, arr[j + 1], arr[j + 2], arr[j + 3]};
                         Arrays.sort(d);
@@ -44,8 +44,10 @@ public class FastCollinearPoints {
                         j = j + 1;
                         //break;
                 }
+
             }
             Arrays.sort(arr);
+
 
 
         }
@@ -68,6 +70,8 @@ public class FastCollinearPoints {
         if((slope1 == slope2) && (slope2 == slope3)){return true;}
         return false;
     }
+
+
 
 
 
